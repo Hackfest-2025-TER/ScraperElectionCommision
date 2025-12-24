@@ -1,0 +1,15 @@
+# ChromeDriver binaries
+chromedriver.exe
+chromedriver-win64/
+chromedriver-win64.zip
+
+# Debug files
+debug_*.html
+debug_*.R
+
+# Temporary data
+data/
+
+# R artifacts
+.Rhistory
+.RData
