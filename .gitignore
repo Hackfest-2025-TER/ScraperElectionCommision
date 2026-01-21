@@ -13,3 +13,5 @@ data/
 # R artifacts
 .Rhistory
 .RData
+
+*.csv
